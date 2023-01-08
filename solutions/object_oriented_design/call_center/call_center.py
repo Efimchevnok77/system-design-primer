@@ -2,7 +2,7 @@ from abc import ABCMeta, abstractmethod
 from collections import deque
 from enum import Enum
 
-
+#edit
 class Rank(Enum):
 
     OPERATOR = 0
